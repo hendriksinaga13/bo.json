@@ -1,0 +1,2288 @@
+{
+    "data": [
+        {
+            "id_barang": "7OTj",
+            "id_kategori": "413858",
+            "nama_barang": "Angsuran ITC Multi Finance\n\n",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:33:41",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/400571035i.jpg"
+        },
+        {
+            "id_barang": "7OTi",
+            "id_kategori": "413858",
+            "nama_barang": "Angsuran Columbia",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:31:58",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/843469289z.jpg"
+        },
+        {
+            "id_barang": "7OTh",
+            "id_kategori": "413858",
+            "nama_barang": "Aeon Cicilan",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:30:21",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/139895081h.jpg"
+        },
+        {
+            "id_barang": "7OTJ",
+            "id_kategori": "413852",
+            "nama_barang": "Indosat 14 GB / 30 Hari",
+            "harga_barang": 112525,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 12:44:35",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/267079043m.jpg"
+        },
+        {
+            "id_barang": "7OTI",
+            "id_kategori": "413852",
+            "nama_barang": "Indosat 13 GB / 30 Hari",
+            "harga_barang": 104525,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 12:44:07",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/267079043m.jpg"
+        },
+        {
+            "id_barang": "7OTG",
+            "id_kategori": "413852",
+            "nama_barang": "Indosat 12 GB / 30 Hari",
+            "harga_barang": 80500,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 12:43:39",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/267079043m.jpg"
+        },
+        {
+            "id_barang": "7OTF",
+            "id_kategori": "413852",
+            "nama_barang": "Indosat 11 GB / 30 Hari",
+            "harga_barang": 88525,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 12:43:14",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/267079043m.jpg"
+        },
+        {
+            "id_barang": "7OTE",
+            "id_kategori": "413852",
+            "nama_barang": "Indosat 10 GB / 30 Hari",
+            "harga_barang": 50500,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 12:42:48",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/267079043m.jpg"
+        },
+        {
+            "id_barang": "7OTD",
+            "id_kategori": "413852",
+            "nama_barang": "Indosat 9 GB / 30 Hari",
+            "harga_barang": 43000,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 12:42:10",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/267079043m.jpg"
+        },
+        {
+            "id_barang": "7OTB",
+            "id_kategori": "413852",
+            "nama_barang": "Indosat 8 GB / 30 Hari",
+            "harga_barang": 40950,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 12:41:42",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/267079043m.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 20,
+    "data": [
+        {
+            "id_barang": "7OTu",
+            "id_kategori": "413858",
+            "nama_barang": "MNC Finance",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:45:32",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/210312649d.jpg"
+        },
+        {
+            "id_barang": "7OTt",
+            "id_kategori": "413858",
+            "nama_barang": "Jaccs MPM Finance Indonesia",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:44:39",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/985840880p.jpg"
+        },
+        {
+            "id_barang": "7OTs",
+            "id_kategori": "413858",
+            "nama_barang": "Home Credit Indonesia",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:43:30",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/178605312y.jpg"
+        },
+        {
+            "id_barang": "7OTr",
+            "id_kategori": "413858",
+            "nama_barang": "Heksa Insurance Premi Lanjutan",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:42:28",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/374453997w.jpg"
+        },
+        {
+            "id_barang": "7OTq",
+            "id_kategori": "413858",
+            "nama_barang": "Clipan Finance",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:41:18",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/600364998q.jpg"
+        },
+        {
+            "id_barang": "7OTp",
+            "id_kategori": "413858",
+            "nama_barang": "CIMB Niaga Visa",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:40:21",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/311919453t.jpg"
+        },
+{
+    "code": 200,
+    "status": "ok",
+    "page": 19,
+    "data": [
+        {
+            "id_barang": "7OZB",
+            "id_kategori": "412798",
+            "nama_barang": "Three 40.000",
+            "harga_barang": 38145,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:16:54",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZ9",
+            "id_kategori": "412798",
+            "nama_barang": "Three 30.000",
+            "harga_barang": 28915,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:15:57",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZ7",
+            "id_kategori": "412798",
+            "nama_barang": "Three 15.000",
+            "harga_barang": 15287,
+            "kondisi_barang": "Baru",
+            "stok_barang": 0,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:15:10",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/881469142n.jpg"
+        },
+        {
+            "id_barang": "7OU7",
+            "id_kategori": "413858",
+            "nama_barang": "PT Aeon Credit Service Indonesia",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:53:50",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/628709359v.jpg"
+        },
+        {
+            "id_barang": "7OU5",
+            "id_kategori": "413858",
+            "nama_barang": "OTO Kredit Mobil/Motor",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:52:08",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/262705360i.jpg"
+        },
+        {
+            "id_barang": "7OU3",
+            "id_kategori": "413858",
+            "nama_barang": "NSC Finance",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:51:06",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/832432038c.jpg"
+        },
+        {
+            "id_barang": "7OU0",
+            "id_kategori": "413858",
+            "nama_barang": "Multindo Auto Finance",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:50:06",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/286255495n.jpg"
+        },
+        {
+            "id_barang": "7OTz",
+            "id_kategori": "413858",
+            "nama_barang": "Mega Finance",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:49:00",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/796874603x.jpg"
+        },
+        {
+            "id_barang": "7OTy",
+            "id_kategori": "413858",
+            "nama_barang": "Mega Central Finance",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:47:46",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/58160846r.jpg"
+        },
+        {
+            "id_barang": "7OTv",
+            "id_kategori": "413858",
+            "nama_barang": "Mega Auto Finance",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 13:46:43",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/582863847j.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 18,
+    "data": [
+        {
+            "id_barang": "7OZO",
+            "id_kategori": "412798",
+            "nama_barang": "Three 400.000",
+            "harga_barang": 389500,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:22:00",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZM",
+            "id_kategori": "412798",
+            "nama_barang": "Three 300.000",
+            "harga_barang": 291825,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:21:29",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZL",
+            "id_kategori": "412798",
+            "nama_barang": "Three 200.000",
+            "harga_barang": 194419,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:21:03",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZK",
+"id_kategori": "412798",
+            "nama_barang": "Three 150.000",
+            "harga_barang": 146244,
+            "kondisi_barang": "Baru",
+            "stok_barang": 97,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:20:38",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZJ",
+            "id_kategori": "412798",
+            "nama_barang": "Three 125.000",
+            "harga_barang": 121894,
+            "kondisi_barang": "Baru",
+            "stok_barang": 98,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:20:13",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZI",
+            "id_kategori": "412798",
+            "nama_barang": "Three 90.000",
+            "harga_barang": 88058,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:19:35",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZG",
+            "id_kategori": "412798",
+            "nama_barang": "Three 80.000",
+            "harga_barang": 75515,
+            "kondisi_barang": "Baru",
+            "stok_barang": 99,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:19:09",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZF",
+            "id_kategori": "412798",
+            "nama_barang": "Three 75.000",
+            "harga_barang": 72935,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:18:41",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZE",
+            "id_kategori": "412798",
+            "nama_barang": "Three 70.000",
+            "harga_barang": 69375,
+            "kondisi_barang": "Baru",
+            "stok_barang": 99,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:18:07",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        },
+        {
+            "id_barang": "7OZD",
+            "id_kategori": "412798",
+            "nama_barang": "Three 60.000",
+            "harga_barang": 59039,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:17:25",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 17,
+    "data": [
+        {
+            "id_barang": "7OyD",
+            "id_kategori": "23793",
+            "nama_barang": "Three Pulsa Transfer 5.000",
+            "harga_barang": 5416,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 18:10:30",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/600273326u.jpg"
+        },
+        {
+            "id_barang": "7Ovt",
+            "id_kategori": "414215",
+            "nama_barang": "XL Postpaid",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 16:10:27",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/720802946d.jpg"
+        },
+        {
+            "id_barang": "7Ovo",
+            "id_kategori": "414215",
+            "nama_barang": "Three Postpaid",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 16:09:15",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/237288385o.jpg"
+        },
+        {
+            "id_barang": "7Ovj",
+            "id_kategori": "414215",
+            "nama_barang": "Matrix",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 16:08:09",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/491990968z.jpg"
+        },
+        {
+            "id_barang": "7Ova",
+            "id_kategori": "414215",
+"nama_barang": "Smartfren Postpaid",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 16:05:25",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/600338070y.jpg"
+        },
+        {
+            "id_barang": "7OuO",
+            "id_kategori": "414215",
+            "nama_barang": "Tagihan Internet TELKOMPSTN",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 15:38:31",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/867394897z.jpg"
+        },
+        {
+            "id_barang": "7OuM",
+            "id_kategori": "414215",
+            "nama_barang": "Tagihan Internet Indihome",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 15:37:13",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/436643561i.jpg"
+        },
+        {
+            "id_barang": "7OuK",
+            "id_kategori": "414215",
+            "nama_barang": "Tagihan Internet MyRepublik",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 15:35:30",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/53449141k.jpg"
+        },
+        {
+            "id_barang": "7OuI",
+            "id_kategori": "414215",
+            "nama_barang": "Tagihan Internet CBN",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 15:33:56",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/19501424g.jpg"
+        },
+        {
+            "id_barang": "7OZP",
+            "id_kategori": "412798",
+            "nama_barang": "Three 500.000",
+            "harga_barang": 485810,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-09 18:22:28",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/680654293k.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 16,
+    "data": [
+        {
+            "id_barang": "7PcT",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 1.000.000",
+            "harga_barang": 999545,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:43:10",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PVp",
+            "id_kategori": "414726",
+            "nama_barang": "XL Xtra Combo Flex XL 15 GB-30GB kal) ",
+            "harga_barang": 75757,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-11 19:51:25",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/507423793e.jpg"
+        },
+        {
+            "id_barang": "7P9E",
+            "id_kategori": "23793",
+            "nama_barang": "Three Pulsa Transfer 45.000",
+            "harga_barang": 41362,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 22:59:52",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/707252564l.jpg"
+        },
+        {
+            "id_barang": "7OyQ",
+            "id_kategori": "23793",
+            "nama_barang": "Three Pulsa Transfer 40.000",
+            "harga_barang": 37134,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 18:19:34",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/600273326u.jpg"
+        },
+        {
+            "id_barang": "7OyJ",
+            "id_kategori": "23793",
+            "nama_barang": "Three Pulsa Transfer 35.000",
+            "harga_barang": 32607,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 18:13:20",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/600273326u.jpg"
+        },
+        {
+            "id_barang": "7OyI",
+            "id_kategori": "23793",
+            "nama_barang": "Three Pulsa Transfer 30.000",
+            "harga_barang": 28079,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 18:12:55",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/600273326u.jpg"
+        },
+        {
+            "id_barang": "7OyH",
+            "id_kategori": "23793",
+            "nama_barang": "Three Pulsa Transfer 25.000",
+            "harga_barang": 23537,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 18:12:30",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/600273326u.jpg"
+        },
+        {
+            "id_barang": "7OyG",
+            "id_kategori": "23793",
+            "nama_barang": "Three Pulsa Transfer 20.000",
+            "harga_barang": 19009,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 18:12:06",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/600273326u.jpg"
+        },
+        {
+            "id_barang": "7OyF",
+            "id_kategori": "23793",
+            "nama_barang": "Three Pulsa Transfer 15.000",
+            "harga_barang": 14482,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 18:11:35",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/600273326u.jpg"
+        },
+        {
+            "id_barang": "7OyE",
+            "id_kategori": "23793",
+            "nama_barang": "Three Pulsa Transfer 10.000",
+            "harga_barang": 9938,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-10 18:11:13",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/600273326u.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 15,
+    "data": [
+        {
+            "id_barang": "7PcK",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 20.000",
+            "harga_barang": 19788,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:44:27",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcL",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 25.000",
+            "harga_barang": 24700,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:44:19",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcM",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 30.000",
+            "harga_barang": 29870,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:44:14",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcO",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 40.000",
+            "harga_barang": 40092,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:44:08",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcQ",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 50.000",
+            "harga_barang": 49877,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:43:57",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcR",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 100.000",
+            "harga_barang": 99025,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:43:49",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcS",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 150.000",
+            "harga_barang": 153620,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:43:43",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcN",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 200.000",
+            "harga_barang": 203025,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:43:33",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcP",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 300.000",
+            "harga_barang": 302025,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:43:26",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcU",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 500.000",
+            "harga_barang": 497700,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:43:18",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 14,
+    "data": [
+        {
+            "id_barang": "7PmM",
+            "id_kategori": "412790",
+            "nama_barang": "Telkomsel 150.000",
+            "harga_barang": 148500,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 12:49:47",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150032008x.jpg"
+        },
+        {
+            "id_barang": "7PmJ",
+            "id_kategori": "412790",
+            "nama_barang": "Telkomsel 125.000",
+            "harga_barang": 124750,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 12:49:20",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150032008x.jpg"
+        },
+        {
+            "id_barang": "7PmF",
+            "id_kategori": "412790",
+            "nama_barang": "Telkomsel 90.000",
+            "harga_barang": 89875,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 12:48:50",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150032008x.jpg"
+        },
+        {
+            "id_barang": "7PmD",
+            "id_kategori": "412790",
+            "nama_barang": "Telkomsel 80.000",
+            "harga_barang": 79915,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 12:48:08",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150032008x.jpg"
+        },
+        {
+            "id_barang": "7PmC",
+            "id_kategori": "412790",
+            "nama_barang": "Telkomsel 70.000",
+            "harga_barang": 70055,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 12:47:33",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150032008x.jpg"
+        },
+        {
+            "id_barang": "7PmB",
+            "id_kategori": "412790",
+            "nama_barang": "Telkomsel 60.000",
+            "harga_barang": 60175,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 12:46:57",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150032008x.jpg"
+        },
+        {
+            "id_barang": "7Pm8",
+            "id_kategori": "412790",
+            "nama_barang": "Telkomsel 40.000",
+            "harga_barang": 40235,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 12:46:25",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150032008x.jpg"
+        },
+        {
+            "id_barang": "7PcH",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 5.000",
+            "harga_barang": 6175,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:44:43",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcI",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 10.000",
+            "harga_barang": 11050,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:44:37",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        },
+        {
+            "id_barang": "7PcJ",
+            "id_kategori": "414821",
+            "nama_barang": "Pulsa Xl Rp 15.000",
+            "harga_barang": 15235,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 00:44:32",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/802015645y.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 13,
+    "data": [
+        {
+            "id_barang": "7Q2c",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 30 GB / 30 Hari",
+            "harga_barang": 63486,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 21:19:33",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7Q2X",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 100 GB / 30 Hari",
+            "harga_barang": 125335,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 21:12:52",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7Q2S",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 5 GB / 3 Hari",
+            "harga_barang": 12609,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 21:03:16",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7Q2Q",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 3.5 GB / 5 Hari",
+            "harga_barang": 12750,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 21:02:43",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7Q2L",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 2 GB / 5 Hari",
+            "harga_barang": 8831,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 20:59:32",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7Q2H",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 3 GB / 3 Hari",
+            "harga_barang": 8831,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 20:57:46",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7Q2G",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 5 GB / 1 Hari",
+            "harga_barang": 8243,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 20:56:50",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7Q2D",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 1 GB / 3 Hari",
+            "harga_barang": 5989,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 20:56:04",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7Q27",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 1.5 GB / 1 Hari",
+            "harga_barang": 3145,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 20:48:58",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7Pn8",
+            "id_kategori": "412897",
+            "nama_barang": "BENGKULU - PDAM",
+            "harga_barang": 100,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-12 13:13:44",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/351941567o.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 11,
+    "data": [
+        {
+            "id_barang": "7QMh",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 65 Crystals",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:49:57",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/22920120o.jpg"
+        },
+        {
+            "id_barang": "7QMe",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 65 B-Chips",
+            "harga_barang": 14775,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:48:59",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/35208252r.jpg"
+        },
+        {
+            "id_barang": "7QKQ",
+            "id_kategori": "413007",
+            "nama_barang": "Cek Tagihan",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 97,
+            "berat": 0,
+            "tanggal": "2023-03-13 11:53:50",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/266918479i.jpg"
+        },
+        {
+            "id_barang": "7QDy",
+            "id_kategori": "415064",
+            "nama_barang": "Aktivasi Voucher Tri AlwaysOn 12 GB",
+            "harga_barang": 37611,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 08:01:14",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7QDw",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 11 GB / 30 Hari",
+            "harga_barang": 39280,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 07:50:16",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7QDs",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 18 GB / 30 Hari",
+            "harga_barang": 54323,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 07:42:55",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7QDr",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 14 GB / 30 Hari",
+            "harga_barang": 51285,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 07:41:09",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7QDq",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 9 GB / 10 Hari",
+            "harga_barang": 25805,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 07:40:41",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7QDp",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 7 GB / 30 Hari",
+            "harga_barang": 26271,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 07:40:19",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        },
+        {
+            "id_barang": "7QDo",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 5 GB / 7 Hari",
+            "harga_barang": 16652,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 07:39:54",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/287921083i.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 10,
+    "data": [
+        {
+            "id_barang": "7QRU",
+            "id_kategori": "412802",
+            "nama_barang": "MOBILELEGEND - 11 Diamond",
+            "harga_barang": 3725,
+            "kondisi_barang": "Baru",
+            "stok_barang": 99,
+            "berat": 0,
+            "tanggal": "2023-03-13 16:52:35",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/399845842s.jpg"
+        },
+        {
+            "id_barang": "7QN3",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 1980 B-Chips",
+            "harga_barang": 418000,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:55:52",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/52740470t.jpg"
+        },
+        {
+            "id_barang": "7QN0",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 1430 Crystals",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:55:32",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/472645639p.jpg"
+        },
+        {
+            "id_barang": "7QMy",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 1430 Crystals",
+            "harga_barang": 300500,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:54:49",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/796259983q.jpg"
+        },
+        {
+            "id_barang": "7QMv",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 1320 B-Chips",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:54:10",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/128798527o.jpg"
+        },
+        {
+            "id_barang": "7QMs",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 990 B-Chips",
+            "harga_barang": 220500,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:53:04",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/593400928z.jpg"
+        },
+        {
+            "id_barang": "7QMp",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 710 Crystals",
+            "harga_barang": 142235,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:52:28",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/700128046g.jpg"
+        },
+        {
+            "id_barang": "7QMo",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 330 B-Chips",
+            "harga_barang": 71850,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:51:53",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/410012000x.jpg"
+        },
+        {
+            "id_barang": "7QMm",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 330 Crystals",
+            "harga_barang": 71850,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:51:19",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/695746237y.jpg"
+        },
+        {
+            "id_barang": "7QMl",
+            "id_kategori": "415359",
+            "nama_barang": "Honkai Impact 3 Monthly Card",
+            "harga_barang": 71850,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 13:50:42",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/352897102z.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 9,
+    "data": [
+        {
+            "id_barang": "7RRN",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 30.000",
+            "harga_barang": 29695,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 12:58:03",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRM",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 12.000",
+            "harga_barang": 12360,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 12:56:06",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7QcN",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy 30 GB / 30 Hari",
+            "harga_barang": 67704,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 23:28:49",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/836932982p.jpg"
+        },
+        {
+            "id_barang": "7QcK",
+            "id_kategori": "416206",
+            "nama_barang": "Aktivasi Voucher Tri Data Happy Unlimited 52 GB / 30 Hari",
+            "harga_barang": 66100,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 23:26:55",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/836932982p.jpg"
+        },
+        {
+            "id_barang": "7QcC",
+            "id_kategori": "415064",
+            "nama_barang": "Aktivasi Voucher Tri AlwaysOn Unlimited 26 GB",
+            "harga_barang": 67704,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 23:14:43",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/836932982p.jpg"
+        },
+        {
+            "id_barang": "7QcB",
+            "id_kategori": "415064",
+            "nama_barang": "Aktivasi Voucher Tri AlwaysOn 40 GB",
+            "harga_barang": 92792,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 23:13:30",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/836932982p.jpg"
+        },
+        {
+            "id_barang": "7Qc9",
+            "id_kategori": "415477",
+            "nama_barang": "Aktivasi Voucher Telkomsel 2 GB 3 Hari (Sumatera Selatan Zona 1)",
+            "harga_barang": 9305,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-13 23:06:15",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/633305528k.jpg"
+        },
+        {
+            "id_barang": "7QY7",
+            "id_kategori": "415424",
+            "nama_barang": "Philips Essentials Cool Daylight",
+            "harga_barang": 20700,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1000,
+            "berat": 0,
+            "tanggal": "2023-03-13 20:31:53",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/327631302x.jpg"
+        },
+        {
+            "id_barang": "7QUv",
+            "id_kategori": "413929",
+            "nama_barang": "Maxim Driver 20k",
+            "harga_barang": 21800,
+            "kondisi_barang": "Baru",
+            "stok_barang": 99,
+            "berat": 0,
+            "tanggal": "2023-03-13 18:55:41",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/892820139z.jpg"
+        },
+        {
+            "id_barang": "7QSK",
+            "id_kategori": "412802",
+            "nama_barang": "MOBILELEGEND - 100 Diamond",
+            "harga_barang": 22903,
+            "kondisi_barang": "Baru",
+            "stok_barang": 99,
+            "berat": 0,
+            "tanggal": "2023-03-13 17:23:15",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/399845842s.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 8,
+    "data": [
+        {
+            "id_barang": "7RSf",
+            "id_kategori": "415902",
+            "nama_barang": "Telkomsel Telepon 80.000",
+            "harga_barang": 50600,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:30:37",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/693095600m.jpg"
+        },
+        {
+            "id_barang": "7RSe",
+            "id_kategori": "415902",
+            "nama_barang": "Telkomsel Telepon 50.000",
+            "harga_barang": 35125,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:30:02",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/693095600m.jpg"
+        },
+        {
+            "id_barang": "7RRk",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 150.000",
+            "harga_barang": 143125,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:03:04",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRg",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 125.000",
+            "harga_barang": 120050,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:02:13",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRd",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 100.000",
+            "harga_barang": 96190,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:01:44",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRY",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 90.000",
+            "harga_barang": 87445,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:00:40",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRV",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 80.000",
+            "harga_barang": 77445,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:00:12",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRT",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 70.000",
+            "harga_barang": 68490,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 12:59:44",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRR",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 60.000",
+            "harga_barang": 58495,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 12:59:14",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRO",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 40.000",
+            "harga_barang": 39400,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 12:58:36",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 7,
+    "data": [
+        {
+            "id_barang": "7RVF",
+            "id_kategori": "415898",
+            "nama_barang": "Telkomsel Tambah Masa Aktif Kartu 90 Hari",
+            "harga_barang": 29000,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 14:52:29",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/907325398e.jpg"
+        },
+        {
+            "id_barang": "7RVE",
+            "id_kategori": "415898",
+            "nama_barang": "Telkomsel Tambah Masa Aktif Kartu 30 Hari",
+            "harga_barang": 11700,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 14:52:06",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/907325398e.jpg"
+        },
+        {
+            "id_barang": "7RVC",
+            "id_kategori": "415898",
+            "nama_barang": "Telkomsel Tambah Masa Aktif Kartu 15 Hari",
+            "harga_barang": 6133,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 14:51:34",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/907325398e.jpg"
+        },
+        {
+            "id_barang": "7RVA",
+            "id_kategori": "415898",
+            "nama_barang": "Telkomsel Tambah Masa Aktif Kartu 10 Hari",
+            "harga_barang": 4233,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 14:51:07",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/907325398e.jpg"
+        },
+        {
+            "id_barang": "7RV7",
+            "id_kategori": "415898",
+            "nama_barang": "Telkomsel Tambah Masa Aktif Kartu 5 Hari",
+            "harga_barang": 2375,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 14:50:34",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/907325398e.jpg"
+        },
+        {
+            "id_barang": "7RSn",
+            "id_kategori": "416055",
+            "nama_barang": "Telepon Semua Op (20 menit, 1Hari)",
+            "harga_barang": 5530,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:35:03",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/693095600m.jpg"
+        },
+        {
+            "id_barang": "7RSl",
+            "id_kategori": "416055",
+            "nama_barang": "Telepon Semua Op (20 menit, 1Hari)",
+            "harga_barang": 5505,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:34:34",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/693095600m.jpg"
+        },
+        {
+            "id_barang": "7RSk",
+            "id_kategori": "415902",
+            "nama_barang": "Telkomsel Telepon 9000 menit On Net / 30 Hari",
+            "harga_barang": 98125,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:34:02",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/693095600m.jpg"
+        },
+        {
+            "id_barang": "7RSj",
+            "id_kategori": "415902",
+            "nama_barang": "Telkomsel Telepon 1700 menit On Net / 7 Hari",
+            "harga_barang": 35500,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:33:33",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/693095600m.jpg"
+        },
+        {
+            "id_barang": "7RSi",
+            "id_kategori": "415902",
+            "nama_barang": "Telkomsel Telepon 130.000",
+            "harga_barang": 100500,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:31:27",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/693095600m.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 6,
+    "data": [
+        {
+            "id_barang": "7Rgh",
+            "id_kategori": "416207",
+            "nama_barang": "Aktivasi Voucher Tri 500MB / 30 Hari",
+            "harga_barang": 14810,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 21:44:45",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150309041f.jpg"
+        },
+        {
+            "id_barang": "7Rge",
+            "id_kategori": "416207",
+            "nama_barang": "Aktivasi Voucher Pulsa Tri 100.000",
+            "harga_barang": 100130,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 21:43:43",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150309041f.jpg"
+        },
+        {
+            "id_barang": "7Rgd",
+            "id_kategori": "416207",
+            "nama_barang": "Aktivasi Voucher Pulsa Tri 50.000",
+            "harga_barang": 50730,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 21:43:00",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150309041f.jpg"
+        },
+        {
+            "id_barang": "7RZi",
+            "id_kategori": "413929",
+            "nama_barang": "Cek Rekening BCA",
+            "harga_barang": 100,
+            "kondisi_barang": "Baru",
+            "stok_barang": 98,
+            "berat": 0,
+            "tanggal": "2023-03-15 17:56:33",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/92273198l.jpg"
+        },
+        {
+            "id_barang": "7RVf",
+            "id_kategori": "416060",
+            "nama_barang": "Telkomsel 20 SMS Sesama Telkomsel / 1 Hari",
+            "harga_barang": 1725,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 15:05:49",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/135997767s.jpg"
+        },
+        {
+            "id_barang": "7RVe",
+            "id_kategori": "416060",
+            "nama_barang": "Telkomsel 10 SMS Sesama Telkomsel / 1 Hari",
+            "harga_barang": 1125,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 15:04:59",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/135997767s.jpg"
+        },
+        {
+            "id_barang": "7RVc",
+            "id_kategori": "416060",
+            "nama_barang": "Telkomsel SMS 20.000",
+            "harga_barang": 20993,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 15:04:12",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/135997767s.jpg"
+        },
+        {
+            "id_barang": "7RVa",
+            "id_kategori": "416060",
+            "nama_barang": "Telkomsel SMS 5.000",
+            "harga_barang": 6008,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 15:03:03",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/135997767s.jpg"
+        },
+        {
+            "id_barang": "7RVI",
+            "id_kategori": "415898",
+            "nama_barang": "Telkomsel Tambah Masa Aktif Kartu 360 Hari",
+            "harga_barang": 109750,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 14:53:28",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/907325398e.jpg"
+        },
+        {
+            "id_barang": "7RVG",
+            "id_kategori": "415898",
+            "nama_barang": "Telkomsel Tambah Masa Aktif Kartu 180 Hari",
+            "harga_barang": 56550,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 14:53:01",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/907325398e.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 5,
+    "data": [
+        {
+            "id_barang": "7Rk0",
+            "id_kategori": "416238",
+            "nama_barang": "Aktivasi Voucher XL XTRA HotRod Special 3 GB 10 Hari",
+            "harga_barang": 11381,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 22:50:51",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/224784402y.jpg"
+        },
+        {
+            "id_barang": "7Rjw",
+            "id_kategori": "416238",
+            "nama_barang": "Aktivasi Voucher XL XTRA Hotrod Special 3 GB 7 Hari",
+            "harga_barang": 15455,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 22:50:02",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/224784402y.jpg"
+        },
+        {
+            "id_barang": "7Rjr",
+            "id_kategori": "416238",
+            "nama_barang": "Aktivasi Voucher XL XTRA Hotrod Special 2 GB 7 Hari",
+            "harga_barang": 12300,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 22:49:01",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/224784402y.jpg"
+        },
+        {
+            "id_barang": "7Rjc",
+            "id_kategori": "415110",
+            "nama_barang": "Aktivasi Voucher XL Xtra Combo Special 14 GB 30 Hari",
+            "harga_barang": 35315,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 22:45:26",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/224784402y.jpg"
+        },
+        {
+            "id_barang": "7RjV",
+            "id_kategori": "415110",
+            "nama_barang": "Aktivasi Voucher XL Xtra Combo Special 8 GB 30 Hari",
+            "harga_barang": 23690,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 22:44:17",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/224784402y.jpg"
+        },
+        {
+            "id_barang": "7Rh8",
+            "id_kategori": "416207",
+            "nama_barang": "Aktivasi Voucher Tri 4 GB / 30 Hari",
+            "harga_barang": 45300,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 21:50:18",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150309041f.jpg"
+        },
+        {
+            "id_barang": "7Rh4",
+            "id_kategori": "416207",
+            "nama_barang": "Aktivasi Voucher Tri 10 GB / 30 Hari",
+            "harga_barang": 60300,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 21:49:22",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150309041f.jpg"
+        },
+        {
+            "id_barang": "7Rgx",
+            "id_kategori": "415423",
+            "nama_barang": "Aktivasi Voucher Tri 6 GB / 30 Hari",
+            "harga_barang": 40300,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 21:48:23",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150309041f.jpg"
+        },
+        {
+            "id_barang": "7Rgs",
+            "id_kategori": "415423",
+            "nama_barang": "Aktivasi Voucher Tri 5 GB / 30 Hari",
+            "harga_barang": 26825,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 21:47:26",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150309041f.jpg"
+        },
+        {
+            "id_barang": "7Rgl",
+            "id_kategori": "416207",
+            "nama_barang": "Aktivasi Voucher Tri 1,5 GB / 30 Hari",
+            "harga_barang": 14810,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 21:45:21",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/150309041f.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 4,
+    "data": [
+        {
+            "id_barang": "7SZ7",
+            "id_kategori": "412807",
+            "nama_barang": "DANA 40.000",
+            "harga_barang": 40580,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-17 16:19:50",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/439632200d.jpg"
+        },
+        {
+            "id_barang": "7SZ6",
+            "id_kategori": "412807",
+            "nama_barang": "DANA 30.000",
+            "harga_barang": 30580,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-17 16:19:27",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/439632200d.jpg"
+        },
+        {
+            "id_barang": "7SZ1",
+            "id_kategori": "412807",
+            "nama_barang": "DANA 20.000",
+            "harga_barang": 20565,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-17 16:18:47",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/439632200d.jpg"
+        },
+        {
+            "id_barang": "7SYz",
+            "id_kategori": "412807",
+            "nama_barang": "DANA 10.000",
+            "harga_barang": 10560,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-17 16:17:23",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/439632200d.jpg"
+        },
+        {
+            "id_barang": "7Row",
+            "id_kategori": "415064",
+            "nama_barang": "Cek Status Voucher Three",
+            "harga_barang": 1,
+            "kondisi_barang": "Baru",
+            "stok_barang": 998,
+            "berat": 0,
+            "tanggal": "2023-03-16 02:05:30",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/326955250k.jpg"
+        },
+        {
+            "id_barang": "7Rkb",
+            "id_kategori": "416238",
+            "nama_barang": "Aktivasi Voucher XL XTRA Hotrod Special 2 GB 7 Hari",
+            "harga_barang": 100,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 22:57:35",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/224784402y.jpg"
+        },
+        {
+            "id_barang": "7RkT",
+            "id_kategori": "416238",
+            "nama_barang": "Aktivasi Voucher XL XTRA Hotrod Special 6.5 GB 7 Hari",
+            "harga_barang": 25385,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 22:56:00",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/224784402y.jpg"
+        },
+        {
+            "id_barang": "7RkM",
+            "id_kategori": "416238",
+            "nama_barang": "Aktivasi Voucher XL XTRA HotRod Special 6 GB 10 Hari\n\n\n",
+            "harga_barang": 16400,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 22:54:54",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/224784402y.jpg"
+        },
+        {
+            "id_barang": "7RkD",
+            "id_kategori": "416238",
+            "nama_barang": "Aktivasi Voucher XL XTRA Hotrod Special 4.5 GB 7 Hari\n\nUbah Seller\n\n\n",
+            "harga_barang": 16475,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 22:53:26",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/224784402y.jpg"
+        },
+        {
+            "id_barang": "7Rk6",
+            "id_kategori": "416238",
+            "nama_barang": "Aktivasi Voucher XL XTRA HotRod Special 4 GB 10 Hari",
+            "harga_barang": 13400,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 22:51:54",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/224784402y.jpg"
+        }
+    ]
+}
+{
+
+        {
+            "id_barang": "7Sqh",
+            "id_kategori": "417140",
+            "nama_barang": "Aktivasi Voucher Axis 1 GB / 1 Hari",
+            "harga_barang": 4145,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 01:17:16",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/676350221t.jpg"
+        },
+        {
+            "id_barang": "7SqO",
+            "id_kategori": "417137",
+            "nama_barang": "Aktivasi Voucher Axis New Owsem 48 GB + Kuota Games / 30 Hari",
+            "harga_barang": 58900,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 00:30:12",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/852652225b.jpg"
+        },
+        {
+            "id_barang": "7SqM",
+            "id_kategori": "417137",
+            "nama_barang": "Aktivasi Voucher Axis New Owsem 32 GB + Kuota Games / 30 Hari",
+            "harga_barang": 47400,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 00:29:34",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/852652225b.jpg"
+        },
+        {
+            "id_barang": "7SqL",
+            "id_kategori": "417137",
+            "nama_barang": "Aktivasi Voucher Axis New Owsem 24 GB + Kuota Games / 30 Hari",
+            "harga_barang": 40700,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 00:29:07",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/852652225b.jpg"
+        },
+        {
+            "id_barang": "7SqH",
+            "id_kategori": "417137",
+            "nama_barang": "Aktivasi Voucher Axis Owsem 3 GB + 9 GB 4G + 12",
+            "harga_barang": 59369,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 00:28:39",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/852652225b.jpg"
+        },
+        {
+            "id_barang": "7SqC",
+            "id_kategori": "417137",
+            "nama_barang": "Aktivasi Voucher Axis Owsem 2 GB + 6 GB 4G + 8 GB Game / 30 Hari",
+            "harga_barang": 44762,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 00:28:04",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/852652225b.jpg"
+        },
+        {
+            "id_barang": "7SqA",
+            "id_kategori": "417137",
+            "nama_barang": "Aktivasi Voucher Axis Owsem 1 GB + 3 GB 4G + 4 GB Game / 30 Hari",
+            "harga_barang": 28154,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 00:27:28",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/852652225b.jpg"
+        },
+        {
+            "id_barang": "7Sq9",
+            "id_kategori": "417137",
+            "nama_barang": "Aktivasi Voucher Axis Owsem 1 GB + 1 GB 4G + 2 GB Game / 30 Hari",
+            "harga_barang": 16600,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 00:26:51",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/852652225b.jpg"
+        },
+        {
+            "id_barang": "7SdN",
+            "id_kategori": "415897",
+            "nama_barang": "DANA 60.000",
+            "harga_barang": 50580,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-17 17:33:41",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/439632200d.jpg"
+        },
+        {
+            "id_barang": "7SZB",
+            "id_kategori": "412807",
+            "nama_barang": "DANA 50.000",
+            "harga_barang": 50580,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-17 16:20:29",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/439632200d.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 2,
+    "data": [
+        {
+            "id_barang": "7T6z",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 2 GB Nas/3 GB BB/3.5 GB BOY/5 GB BBOY 5 Hari",
+            "harga_barang": 12880,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 13:05:02",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7T6s",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 5 GB Nat/6 GB BB/7 GB BOY/9 GB BBOY 3 Hari",
+            "harga_barang": 13610,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 13:03:52",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7T6k",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 1.5 GB BOY/2 GB BBOY 5 Hari",
+            "harga_barang": 8270,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 13:01:49",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7T6T",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 1.5 GB Nas/2 GB BB/2.5 GB BOY/3 GB BBOY 3 Hari",
+            "harga_barang": 8650,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 12:57:55",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7T6Q",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 0.5 GB Nas/1 GB BOY/1.5GB BBOY 3 Hari",
+            "harga_barang": 6250,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 12:56:43",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7SrH",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis BOY 1.5 GB / 5 Hari",
+            "harga_barang": 8285,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 01:30:47",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7Sqv",
+            "id_kategori": "417140",
+            "nama_barang": "Aktivasi Voucher Axis 5 GB / 3 Hari",
+            "harga_barang": 13330,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 01:21:12",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/676350221t.jpg"
+        },
+        {
+            "id_barang": "7Sqq",
+            "id_kategori": "417140",
+            "nama_barang": "Aktivasi Voucher Axis 4 GB / 3 Hari",
+            "harga_barang": 13330,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 01:20:22",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/676350221t.jpg"
+        },
+        {
+            "id_barang": "7Sqm",
+            "id_kategori": "417140",
+            "nama_barang": "Aktivasi Voucher Axis 1.5 GB / 3 Hari",
+            "harga_barang": 8475,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 01:19:16",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/676350221t.jpg"
+        },
+        {
+            "id_barang": "7Sqk",
+            "id_kategori": "417140",
+            "nama_barang": "Aktivasi Voucher Axis 500 MB / 3 Hari",
+            "harga_barang": 6220,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 01:18:15",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/676350221t.jpg"
+        }
+    ]
+}
+{
+    "code": 200,
+    "status": "ok",
+    "page": 1,
+    "data": [
+        {
+            "id_barang": "7WHo",
+            "id_kategori": "419705",
+            "nama_barang": "Free Fire 20 Diamond",
+            "harga_barang": 2972,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-24 00:52:58",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/67402127y.jpg"
+        },
+        {
+            "id_barang": "7WHl",
+            "id_kategori": "419705",
+            "nama_barang": "Free Fire 12 Diamond",
+            "harga_barang": 2134,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-24 00:52:02",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/67402127y.jpg"
+        },
+        {
+            "id_barang": "7WHj",
+            "id_kategori": "419705",
+            "nama_barang": "Free Fire 5 Diamond",
+            "harga_barang": 1105,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-24 00:50:50",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/67402127y.jpg"
+        },
+        {
+            "id_barang": "7WHd",
+            "id_kategori": "419705",
+            "nama_barang": "Free Fire Level Up Pass",
+            "harga_barang": 14566,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-24 00:48:05",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/67402127y.jpg"
+        },
+        {
+            "id_barang": "7T8G",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 22 GB Nat/27 GB BB/35 GB BOY/44 GB BBOY 30 Hari",
+            "harga_barang": 69640,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 13:28:39",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7T8A",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 10 GB Nat/16 GB BB/20 GB BOY/24 GB BBOY 7 Hari",
+            "harga_barang": 31900,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 13:27:39",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7T84",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 4.5GB Nat/7 GB BB/9 GB BOY/11.5 GB BBOY 7 Hari",
+            "harga_barang": 21960,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 13:26:51",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7T7x",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 7 GB Nas/8 GB BB/9 GB BOY/12 GB BBOY 5 Hari",
+            "harga_barang": 20540,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 13:26:02",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7T7t",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 3 GB Nat/4.5 GB BB/6.5 GB BOY/8 GB BBOY 7 Hari",
+            "harga_barang": 19225,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 13:24:38",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        },
+        {
+            "id_barang": "7T73",
+            "id_kategori": "417141",
+            "nama_barang": "Aktivasi Voucher Axis Aigo SS 4 GB Nat/5 GB BB/6 GB BOY/8 GB BBOY 5 Hari",
+            "harga_barang": 16360,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-18 13:06:42",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/906427199m.jpg"
+        }
+    ]
+}
